@@ -699,3 +699,9 @@ h6,
     color: #B0B9AE;
     border-top: 1px solid rgba(255, 255, 255, .1);
 }
+
+.campany_logo
+{
+    width: 150px;
+    height: 150px;
+}
